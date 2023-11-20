@@ -1,0 +1,9 @@
+{
+    "commentId": "1",
+    "itemId": "Item Id",
+    "itemType": "Task/Project",
+    "user":"User ID",
+    "text":"Comment Text",
+    "createdAt":"Timestamp",
+    "updatedAt":"Timestamp"
+}

@@ -1,0 +1,10 @@
+{
+    "projectId":"1",
+    "title":"Project Title",
+    "description":"Project Description",
+    "creator":"UserID",
+    "members":["UserID 1","UserID 2"],
+    "tasks":["Task ID 1", "Task ID 2"],
+    "createdAt":"Timestamp",
+    "updatedAt":"Timestamp"
+}

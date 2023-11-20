@@ -1,0 +1,34 @@
+{
+    "taskId": "1",
+    "title": "Task Title",
+    "description": "Task Operation",
+    "project": "Project ID",
+    "assignee": "User ID",
+    "status" : "To Do/In Progress/Done",
+    "dueDate" : "DD-MM-YYYY",
+    "subtasks":[
+        {
+            "subtaskId" : "1",
+            "title":"Subtask Title",
+            "status": "To Do/In Progress/Done"
+        }
+    ],
+    "comments":[{
+       "commentId":"1",
+       "user":"UserId",
+       "text":"Comment Text",
+       "createdAt":"Timestamp",
+       "updatedAt":"Timestamp"
+    }
+    ],
+    "attachments":[
+        {
+            "attachmentId":"1",
+            "url":"Attachment URL",
+            "filename":"Filename",
+            "createdAt":"Timestamp"
+        }
+    ],
+    "createdAt":"Timestamp",
+    "updatedAt":"Timestamp"
+}

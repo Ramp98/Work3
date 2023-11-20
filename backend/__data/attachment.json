@@ -1,0 +1,8 @@
+{
+    "attachmentId": "1",
+    "itemId": "Item ID",
+    "itemType": "Task/Project",
+    "url":"Attachment URL",
+    "filename": "Filename",
+    "createdAt":"Timestamp"
+}

@@ -1,0 +1,9 @@
+{
+    "userId" : "1",
+    "name":"User Name",
+    "email":"user@example.com",
+    "password": "hashedPaswword",
+    "avatar":"Avatar URL",
+    "createdAt":"Timestamp",
+    "updatedAt":"Timestamp"
+}

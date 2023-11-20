@@ -1,0 +1,156 @@
+{
+     "boards": [
+          {
+               "id": "board-1",
+               "columnOrder": [
+                    "column-1",
+                    "column-2",
+                    "column-3",
+                    "column-4"
+               ],
+               "columns": [
+                    {
+                         "id": "column-1",
+                         "board-Id": "board-1",
+                         "title": "High",
+                         "cardOrder": [
+                              "Card-1",
+                              "Card-2",
+                              "Card-3",
+                              "Card-4",
+                              "Card-5",
+                              "Card-6"
+                         ],
+                         "cards": [
+                              {
+                                   "id": "card-1",
+                                   "boardId": "board-1",
+                                   "columnId": "column-1",
+                                   "title": "Title of card 1"
+                              },
+                              {
+                                   "id": "card-2",
+                                   "boardId": "board-1",
+                                   "columnId": "column-1",
+                                   "title": "Title of card 2"
+                              },
+                              {
+                                   "id": "card-3",
+                                   "boardId": "board-1",
+                                   "columnId": "column-1",
+                                   "title": "Title of card 3"
+                              },
+                              {
+                                   "id": "card-4",
+                                   "boardId": "board-1",
+                                   "columnId": "column-1",
+                                   "title": "Title of card 4"
+                              },
+                              {
+                                   "id": "card-5",
+                                   "boardId": "board-1",
+                                   "columnId": "column-1",
+                                   "title": "Title of card 5"
+                              },
+                              {
+                                   "id": "card-6",
+                                   "boardId": "board-1",
+                                   "columnId": "column-1",
+                                   "title": "Title of card 6"
+                              }
+                         ]
+                    },
+                    {
+                         "id": "column-2",
+                         "board-Id": "board-1",
+                         "title": "Medium",
+                         "cardOrder": [
+                              "Card-7",
+                              "Card-8",
+                              "Card-9"
+                         ],
+                         "cards": [
+                              {
+                                   "id": "card-7",
+                                   "boardId": "board-1",
+                                   "columnId": "column-2",
+                                   "title": "Title of card 7"
+                              },
+                              {
+                                   "id": "card-8",
+                                   "boardId": "board-1",
+                                   "columnId": "column-2",
+                                   "title": "Title of card 8"
+                              },
+                              {
+                                   "id": "card-9",
+                                   "boardId": "board-1",
+                                   "columnId": "column-2",
+                                   "title": "Title of card 9"
+                              }
+                         ]
+                    },
+                    {
+                         "id": "column-3",
+                         "board-Id": "board-1",
+                         "title": "Low",
+                         "cardOrder": [
+                              "Card-10",
+                              "Card-11",
+                              "Card-12",
+                              "Card-13"
+                         ],
+                         "cards": [
+                              {
+                                   "id": "card-10",
+                                   "boardId": "board-1",
+                                   "columnId": "column-3",
+                                   "title": "Title of card 10"
+                              },
+                              {
+                                   "id": "card-11",
+                                   "boardId": "board-1",
+                                   "columnId": "column-3",
+                                   "title": "Title of card 11"
+                              },
+                              {
+                                   "id": "card-12",
+                                   "boardId": "board-1",
+                                   "columnId": "column-3",
+                                   "title": "Title of card 12"
+                              },
+                              {
+                                   "id": "card-13",
+                                   "boardId": "board-1",
+                                   "columnId": "column-3",
+                                   "title": "Title of card 13"
+                              }
+                         ]
+                    },
+                    {
+                         "id": "column-4",
+                         "board-Id": "board-1",
+                         "title": "Very Low",
+                         "cardOrder": [
+                              "Card-14",
+                              "Card-15"
+                         ],
+                         "cards": [
+                              {
+                                   "id": "card-14",
+                                   "boardId": "board-1",
+                                   "columnId": "column-4",
+                                   "title": "Title of card 14"
+                              },
+                              {
+                                   "id": "card-15",
+                                   "boardId": "board-1",
+                                   "columnId": "column-5",
+                                   "title": "Title of card 15"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ]
+}

@@ -1,0 +1,9 @@
+{
+    "teamId": "1",
+    "name":"Team Name",
+    "description": "Team Description",
+    "members":["User ID 1", "User ID 2"],
+    "projects":["Project ID 1","Project ID 2"],
+    "createdAt" : "Timestamp", 
+    "updatedAt" : "Timestamp"
+}
